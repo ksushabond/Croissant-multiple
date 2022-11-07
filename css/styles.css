@@ -1,0 +1,19 @@
+body {
+  background-color: bisque;
+}
+h1,
+p {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+footer a {
+  color: rgb(100, 99, 99);
+  padding: 10px;
+}
+.croissant-image {
+  display: block;
+  margin: 40px auto;
+  border-radius: 5px;
+}
